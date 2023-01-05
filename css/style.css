@@ -113,7 +113,7 @@ body {
   @media screen and (max-width: 640px) {
     .principal {
      flex-wrap: wrap ;
-     font-size: 1.15rem;
+     font-size: 1rem;
      flex: 100%;
     }
   }
